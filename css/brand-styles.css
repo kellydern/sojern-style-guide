@@ -39,10 +39,15 @@
     width: 100%;
  }
 
+ .brandassets-logo {
+    display: inline-block;
+ }
+
  .brandassets-logo > li {
     float: left;
     margin-top: 50px;
-    width: 50%;
+    width: 40%;
+    display: inline-block;
  }
 
  #brand-color li {
@@ -56,14 +61,9 @@
   height: 220px;
 }
 
-.brand-color p {
+#brand-color p {
   text-align: left;
   color: #FFFFFF;
-  padding: 10px 0px;
+  padding: 10px 10px;
 }
 
-.bottom-hexcontent p {
-  color: #FFFFFF;
-  text-align: left;
-  padding: 10px 0px;
-}
