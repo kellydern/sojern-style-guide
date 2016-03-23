@@ -34,26 +34,37 @@
  
  /* Logo styles */
 
- .large-image {
+ li.large-image {
     display: block;
     width: 100%;
  }
 
  .brandassets-logo {
     display: inline-block;
+    margin-bottom: 30px;
  }
 
- .brandassets-logo > li {
+ .brandassets-logo li {
     float: left;
     margin-top: 50px;
-    width: 40%;
     display: inline-block;
  }
 
- #brand-color li {
-    float: left;
-    margin-top: 25px;
-    width: 20%;
+.brand-align {
+  text-align: center;
+}
+
+ .brandassets--logoright{
+    margin-left: 58px;
+ }
+
+ .brandassets--logoleft {
+    margin-right: 58px;
+ }
+
+.brand-header h4 {
+  color: #464646;
+  text-align: left;
 }
 
 .hex-size {
@@ -61,9 +72,267 @@
   height: 220px;
 }
 
-#brand-color p {
-  text-align: left;
+.color-block li {
+    float: left;
+    margin-top: 25px;
+    width: 20%;
+}
+
+.brand-color p {
   color: #FFFFFF;
+}
+
+.color-block {
+  display: block;
+  margin-bottom: 80px;
+}
+
+.color-block ul li {
+  color: #FFFFFF;
+}
+
+.top-hexcontent {
+  text-align: left;
   padding: 10px 10px;
 }
+
+.bottom-hexcontent {
+  text-align: left;
+  padding: 120px 10px;
+}
+
+.media-color5 {
+  background-color: #F7F8F9;
+}
+
+.media-color5 p, .media-color6 p {
+  color: #777777;
+}
+
+.media-color6 {
+  background-color: #EAEDF2;
+}
+
+.media-color7 {
+  background-color: #777777;
+}
+
+.media-color8 {
+  background-color: #DD5544;
+}
+
+.media-color9 {
+  background-color: #FF66CC;
+}
+
+.media-color10 {
+  background-color: #CC99FF;
+}
+
+.media-color11 {
+  background-color: #66CA00;
+}
+
+.media-color12 {
+  background-color: #00CAFF;
+}
+
+#orange-wrap {
+  background-color: #FF6600;
+  color: #FFFFFF;
+}
+
+#orange-wrap h3 {
+  color: #FFFFFF;
+}
+
+#typography--footer{
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+.typography--headings h1 {
+  margin: 30px 0px;
+  line-height: 1em;
+}
+
+.typography--headings h2 {
+  margin: 30px 0px 20px 0px;
+  line-height: 1em;
+}
+
+.typography--headings h3 {
+  margin: 10px 0px 30px 0px;
+  line-height: 1em;
+}
+
+.typography--headings h4 {
+  margin: 30px 0px;
+  line-height: 1em;
+}
+
+.typography-content h4, .color-block h4 {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.logo-content h4 {
+  text-align: left;
+  color: #464646;
+  margin-bottom: 10px;
+}
+
+.page-section.logo-content {
+  padding: 0px;
+}
+
+.third-brandstyle {
+  width:33%;
+  padding:0px 20px;
+  display: inline-block;
+}
+
+.brand--sectiontitles {
+  text-align: left;
+}
+
+.download-creative p {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.download-creative {
+    background-color: #FFFFFF;
+}
+
+#brandassets-hero.media-main {
+  background: url("http://www.sojern.com/wp-content/themes/sojern/library/images/brandassets-main.jpg") no-repeat scroll center top / cover; 
+  min-height: 560px;
+  width: 100%;
+  position: relative;
+}
+
+#brandassets-hero h1 {
+  color: white;
+  float: left;
+  font-family: "DINWeb";
+  font-size: 56px;
+  font-weight: bold;
+  margin-top: 15%;
+  width: 60%;
+}
+
+@media (max-width: 1000px) {
+  #brandassets-hero h1  {
+    color: white;
+    float: left;
+    font-family: "DINWeb";
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 15%;
+    width: 52%;
+  } 
+}
+
+@media (max-width: 399px) and (min-width: 300px) {
+  #brandassets-hero h1  {
+    font-size: 18px !important;
+    width: 100% !important;
+  } 
+}
+
+@media (min-width: 375px) and (max-width: 667px) {
+  .brandassets--logoright, .brandassets--logoleft {
+    margin: 0px auto;
+  }
+
+  .color-block li {
+    margin: 0px 80px;
+    text-align: center;
+  }
+
+  .brand-assetscta {
+    font-size: .95em;
+  }
+
+  .third-brandstyle {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .third-brandstyle h4 {
+    text-align: left;
+  }
+}
+
+@media (min-device-width: 320px) and (max-device-width: 480px){
+  .brandassets--logoright, .brandassets--logoleft {
+    margin: 0px auto;
+  }
+
+  .profile-list.third-brandstyle {
+    line-height: 36px;
+    list-style: inside;
+    list-style-type: disc;
+    float:left;
+    clear:left;
+    color: #707070;
+  }
+
+  .color-block li {
+    margin: 0px 60px;
+    text-align: center;
+  }
+
+  .brand-assetscta {
+    font-size: .75em;
+  }
+
+  .third-brandstyle {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .third-brandstyle h4 {
+    text-align: left;
+    margin: 10px 0px;
+  }
+
+}
+
+@media (min-device-width: 768px) and (max-device-width: 1024px) {
+    .brandassets--logoright, .brandassets--logoleft {
+    margin: 0px auto;
+  }
+
+  .profile-list.third-brandstyle {
+    line-height: 36px;
+    list-style: inside;
+    list-style-type: disc;
+    float:left;
+    clear:left;
+  }
+
+  .color-block li {
+    margin: 0px 80px;
+    text-align: center;
+  }
+
+  .brand-assetscta {
+    font-size: .95em;
+  }
+
+  .third-brandstyle {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .third-brandstyle h4 {
+    text-align: left;
+  }
+}
+
 

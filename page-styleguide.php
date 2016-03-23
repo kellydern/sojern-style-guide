@@ -1,0 +1,757 @@
+
+<!doctype html>
+
+<!--[if lt IE 7]><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" class="no-js lt-ie9 lt-ie8"><![endif]-->
+
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" class="no-js lt-ie9"><![endif]-->
+
+<!--[if gt IE 8]><!--> <html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" class="no-js"><!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>Brand Assets | Sojern</title>
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link rel="apple-touch-icon" href="http://www.sojern.com/wp-content/themes/sojern/library/images/apple-touch-icon.png">
+		<link rel="icon" href="http://www.sojern.com/wp-content/themes/sojern/favicon.png">
+		<!--[if IE]>
+
+			<link rel="shortcut icon" href="http://www.sojern.com/wp-content/themes/sojern/favicon.ico">
+
+		<![endif]-->
+		<meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="http://www.sojern.com/wp-content/themes/sojern/library/images/win8-tile-icon.png">
+        <meta name="theme-color" content="#121212">
+		<link rel="pingback" href="http://www.sojern.com/xmlrpc.php">	
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+	<link rel="canonical" href="http://www.sojern.com/media-resources/" />
+	<meta name="description" content="Find Sojern media assets, including key personnel bios &amp; photos, brand assets, and more." />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Media Resources" />
+	<meta property="og:description" content="Find Sojern media assets, including key personnel bios &amp; photos, brand assets, and more." />
+	<meta property="og:url" content="http://www.sojern.com/media-resources/" />
+	<meta property="article:published_time" content="2015-06-24" />
+	<meta property="article:modified_time" content="2015-07-02" />
+	<meta property="og:site_name" content="Sojern" />
+	<meta name="twitter:card" content="summary" />
+<!-- /SEO Ultimate -->
+
+<link rel="alternate" type="application/rss+xml" title="Sojern &raquo; Feed" href="http://www.sojern.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sojern &raquo; Comments Feed" href="http://www.sojern.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sojern &raquo; Media Resources Comments Feed" href="http://www.sojern.com/media-resources/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sojern.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.sojern.com/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='googleFonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-stylesheet-css'  href='http://www.sojern.com/wp-content/themes/sojern/library/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css-css'  href='http://www.sojern.com/wp-content/themes/sojern/library/css/lightbox.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='http://www.sojern.com/wp-content/themes/sojern/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.sojern.com/wp-content/themes/sojern/library/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-css-css'  href='http://www.sojern.com/wp-content/themes/sojern/library/css/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css-css'  href='http://www.sojern.com/wp-content/themes/sojern/library/css/flexslider.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.sojern.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='shortlink' href='http://www.sojern.com/?p=2118' />
+<meta name="generator" content="Powered by Slider Revolution 5.1.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<!--Brand Assets Stylesheet-->
+<link rel='stylesheet' type='text/css' href="css/brand-styles.css"/>
+		
+		<style type="text/css">.addthis_32x32_style .at4-icon, .addthis_32x32_white_style .at4-icon, .at-32x32 {background-size: 20px !important;}</style>
+	</head>
+
+
+
+	<body class="page page-id-2118 page-template page-template-page-media page-template-page-media-php" itemscope itemtype="http://schema.org/WebPage">
+    <!-- Google Tag Manager -->
+<noscript><iframe title="Google Tag Manager" src="//www.googletagmanager.com/ns.html?id=GTM-MHVLX7"
+height="0" width="0" class="googletagm" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MHVLX7');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+		<div id="container">
+
+
+			<header id="header" class="header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+            
+
+            <div id="top-header" class="wrap cf">
+
+            <div id="top-header-content">
+
+            <span class="phone">1 877 976 5376</span>
+
+            <a class="contact" href="http://www.sojern.com/contact">CONTACT</a>
+
+          
+            <form action="http://www.sojern.com" id="searchform" method="get">
+     <fieldset>
+        
+         <input type="search" id="s" name="s" placeholder="" required />
+        <button type="submit" class="fa fa-search"></button>
+     </fieldset>
+</form>
+
+            </div>
+
+            
+
+            
+
+            </div>
+
+
+
+				<div id="inner-header" class="wrap cf">
+
+
+
+					
+					<div id="logo"><a href="http://www.sojern.com" rel="nofollow"><img src="http://www.sojern.com/wp-content/themes/sojern/library/images/sojern-logo.jpg" alt="Sojern Logo" /></a></div>
+
+
+
+					
+					
+
+<a id="mobile-menu" class="toggle-button" href="#"><i class="fa fa-reorder"></i></a>
+
+
+					<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+
+						<ul id="menu-main" class="nav top-nav cf"><li id="menu-item-1853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1853"><a href="http://www.sojern.com/customers/">Customers</a>
+<ul class="sub-menu">
+	<li id="menu-item-1714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1714"><a href="http://www.sojern.com/hotel-advertising-solutions/">Hotel</a></li>
+	<li id="menu-item-1854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1854"><a href="http://www.sojern.com/tourism-advertising-solutions/">Tourism</a></li>
+	<li id="menu-item-1820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1820"><a href="http://www.sojern.com/transportation-advertising-solutions/">Car &#038; Parking</a></li>
+	<li id="menu-item-1819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1819"><a href="http://www.sojern.com/cruise-advertising-solutions/">Cruise</a></li>
+	<li id="menu-item-1822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1822"><a href="http://www.sojern.com/airline-advertising-solutions/">Airline</a></li>
+	<li id="menu-item-1855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1855"><a href="http://www.sojern.com/consumer-advertising-solutions/">Consumer</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1996"><a href="http://www.sojern.com/monetize-travel-data/">Data Partners</a></li>
+	<li id="menu-item-1852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1852"><a href="http://www.sojern.com/success-stories/">Case Studies</a></li>
+	<li id="menu-item-2524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2524"><a href="http://www.sojern.com/support/">Support</a></li>
+</ul>
+</li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6"><a href="#">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-1959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1959"><a href="http://www.sojern.com/smart-targeting/">SmartTargeting</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1962"><a href="http://www.sojern.com/?page_id=1903#st-solutions">Branding</a></li>
+		<li id="menu-item-1963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1963"><a href="http://www.sojern.com/?page_id=1903#st-prospecting">Prospecting</a></li>
+		<li id="menu-item-1964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1964"><a href="http://www.sojern.com/?page_id=1903#st-retargeting">Retargeting</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1960"><a href="http://www.sojern.com/property-solutions/">Property Solutions</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1961"><a href="http://www.sojern.com/revdirect/">RevDirect™</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2109"><a href="#">Platform</a>
+<ul class="sub-menu">
+	<li id="menu-item-1958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1958"><a href="http://www.sojern.com/travel-advertising-platform/">Sojern Traveler Platform</a></li>
+	<li id="menu-item-1957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1957"><a href="http://www.sojern.com/traveler-profiles/">Traveler Profiles</a></li>
+</ul>
+</li>
+<li id="menu-item-1723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1723"><a href="http://www.sojern.com/resources/">Resources</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-9"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-2978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2978"><a href="http://www.sojern.com/team/">Team</a></li>
+	<li id="menu-item-1973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973"><a href="http://www.sojern.com/careers/">Careers</a></li>
+	<li id="menu-item-1939" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1939"><a href="http://www.sojern.com/press/">Press Room</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2142"><a href="http://www.sojern.com/press/">News</a></li>
+		<li id="menu-item-2141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2141"><a href="http://www.sojern.com/press-releases/">Press Releases</a></li>
+		<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2118 current_page_item menu-item-2140"><a href="http://www.sojern.com/media-resources/">Media Resources</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1965"><a href="http://www.sojern.com/sojern-gives-back/">Sojern Gives Back</a></li>
+	<li id="menu-item-1970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1970"><a href="http://www.sojern.com/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-1745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1745"><a href="http://www.sojern.com/blog/">Blog</a></li>
+<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1967"><a href="http://www.sojern.com/get-started/">Get Started Now</a></li>
+</ul>
+
+
+					</nav>
+
+
+
+				</div>
+
+
+
+			</header>
+
+
+
+<nav id="menu">
+
+	<div class="menu-main-container"><ul id="menu-main-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1853"><a href="http://www.sojern.com/customers/">Customers</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1714"><a href="http://www.sojern.com/hotel-advertising-solutions/">Hotel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1854"><a href="http://www.sojern.com/tourism-advertising-solutions/">Tourism</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1820"><a href="http://www.sojern.com/transportation-advertising-solutions/">Car &#038; Parking</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1819"><a href="http://www.sojern.com/cruise-advertising-solutions/">Cruise</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1822"><a href="http://www.sojern.com/airline-advertising-solutions/">Airline</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1855"><a href="http://www.sojern.com/consumer-advertising-solutions/">Consumer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1996"><a href="http://www.sojern.com/monetize-travel-data/">Data Partners</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1852"><a href="http://www.sojern.com/success-stories/">Case Studies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2524"><a href="http://www.sojern.com/support/">Support</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6"><a href="#">Solutions</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1959"><a href="http://www.sojern.com/smart-targeting/">SmartTargeting</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1962"><a href="http://www.sojern.com/?page_id=1903#st-solutions">Branding</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1963"><a href="http://www.sojern.com/?page_id=1903#st-prospecting">Prospecting</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1964"><a href="http://www.sojern.com/?page_id=1903#st-retargeting">Retargeting</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1960"><a href="http://www.sojern.com/property-solutions/">Property Solutions</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1961"><a href="http://www.sojern.com/revdirect/">RevDirect™</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2109"><a href="#">Platform</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1958"><a href="http://www.sojern.com/travel-advertising-platform/">Sojern Traveler Platform</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1957"><a href="http://www.sojern.com/traveler-profiles/">Traveler Profiles</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1723"><a href="http://www.sojern.com/resources/">Resources</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-9"><a href="#">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2978"><a href="http://www.sojern.com/team/">Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973"><a href="http://www.sojern.com/careers/">Careers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1939"><a href="http://www.sojern.com/press/">Press Room</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2142"><a href="http://www.sojern.com/press/">News</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2141"><a href="http://www.sojern.com/press-releases/">Press Releases</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2118 current_page_item menu-item-2140"><a href="http://www.sojern.com/media-resources/">Media Resources</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1965"><a href="http://www.sojern.com/sojern-gives-back/">Sojern Gives Back</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1970"><a href="http://www.sojern.com/contact/">Contact</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1745"><a href="http://www.sojern.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1967"><a href="http://www.sojern.com/get-started/">Get Started Now</a></li>
+</ul></div>
+</nav>
+
+		<div id="content">
+			<div id="sub-header" class="media-bg">
+                <div class="wrap cf">
+            		<h3>Media Resources</h3>
+            	</div>
+            </div>
+		<div id="tier2-nav" class="news-sub">
+        	<div class="wrap cf">
+          <div class="menu-news-container"><ul id="menu-news" class="menu"><li id="menu-item-2092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2092"><a href="http://www.sojern.com/press/">News</a></li>
+<li id="menu-item-2090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2090"><a href="http://www.sojern.com/press-releases/">Press Releases</a></li>
+<li id="menu-item-2120" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2118 current_page_item menu-item-2120"><a href="http://www.sojern.com/media-resources/">Media Resources</a></li>
+</ul></div>            </div>
+        
+        
+        </div>
+        <div id="contact-hero" class="media-main" data-stellar-background-ratio=".8">
+            	<div class="wrap cf">
+                <h1>Everything You Need to <br>Know About Sojern</h1>
+                </div>
+                </div>
+       <section id="media-about" class="page-section white-bg">
+       	<div class="wrap cf">
+          <ul id="team-anchors">
+            <li><a href="#aboutsojern">About Sojern</a></li>
+            <li><a href="#keypersonnel">Key Personnel Bios &amp; Photos</a></li>
+            <li><a href="#brandassets">Brand Assets</a></li>
+        </ul>
+        
+        <section class="page-section white-bg">
+       		<div class="wrap cf">
+	        	<h3 id="brandassets-logo">Overview</h3>
+	            	<p>Our brand personality defines who we are, how we operate and how we treat each other and our customers. To continue to grow into a successful, global company, we strive to be passionate, innovative and driven. At the same time, we want to be genuine and honest in all of our endeavors. Maintaining a unified visual and writing style enables us to continuously deliver engaging experiences at every touchpoint with our customers and key audiences. To do this, we created the following style guide to document our brand’s best practices.</p>
+	            	<p>This is a guide to the core elements that make up Sojern. Take a look and get to know us better.</p>
+
+            	<h3 class="brandassets-logo">Logos</h3>
+            		<p>To maintain the integrity of the Sojern logo, and to promote the consistency of the brand, it is important to use the logo as described in these guidelines. Our logo comes in seven variations.</p>
+            
+            	<ul class="brandassets-logo">
+            		<li class="large-image"><img src="img/sojern-large-logo.png" />
+            			<p>Orange logo on light background</p>
+            				<a download="Sojern_Orange_Logo.png" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_logo/Sojern_Orange_Logo.png">PNG</a> 
+            				<span> / </span> <a download="Sojern_White_Logo.eps" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_logo/Sojern_White_Logo.eps">EPS</a> 
+            		</li>
+            
+             		<li class="brandassets--logoleft"><img src="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/logo-2.png" />
+            			<p>US Sojern logo with tagline</p>
+             	 			<a download="Sojern_White_Logo.png" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_logo/Sojern_White_Logo.png">PNG</a> 
+            				<span> / </span> 
+            				<a download="Sojern_White_Logo.eps" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_logo/Sojern_White_Logo.eps">EPS</a>
+            		</li>
+            
+             		<li class="brandassets--logoright"><img src="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/logo-3.png" />
+            			<p>EMEA/APAC logo with tagline</p>
+              				<a download="Sojern_Orange_Tagline_Logo.png" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_tagline_logo/Sojern_Orange_Tagline_Logo.png">PNG</a> 
+            				<span> / </span> 
+            				<a download="Sojern_Orange_Tagline_Logo.eps" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_tagline_logo/Sojern_Orange_Tagline_Logo.eps">EPS</a>
+            				 <span> / </span> 
+            				<a  href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_tagline_logo/sojern_tagline_logo.zip">EMEA & APAC VERSION</a>
+            		</li>
+            
+		             <li class="brandassets--logoleft"><img src="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/logo-4.png" />
+		            	<p>White logo with tagline on light background</p>
+		                  <a download="Sojern_White_Tagline_Logo.png" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_tagline_logo/Sojern_White_Tagline_Logo.png">PNG</a> 
+		            	<span> / </span> 
+			            <a download="Sojern_White_Tagline_Logo.eps" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_tagline_logo/Sojern_White_Tagline_Logo.eps">EPS</a>
+			             <span> / </span> 
+			            <a download="Sojern_White_Logo.png" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_tagline_logo/sojern_tagline_logo_white.zip">EMEA & APAC VERSION</a>
+			            </li>
+	            
+	             <li class="brandassets--logoright"><img src="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/logo-5.png" />
+	            	<p>EMEA/APAC white logo on dark background</p>
+	              	<a download="Sojern_Grey_Compass.png" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_compass/Sojern_Grey_Compass.png">PNG</a> 
+	            	<span> / </span> 
+	            	<a download="Sojern_Grey_Compass.eps" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_compass/Sojern_Grey_Compass.eps">EPS</a>
+	            </li>
+            
+             <li class="brandassets--logoleft"><img src="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/logo-6.png" />
+            	<p>Grey icon on light background</p>
+             	<a download="Sojern_Grey_Compass.png" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_compass/Sojern_Grey_Compass.png">PNG</a> 
+	            <span> / </span> 
+	            <a download="Sojern_Grey_Compass.eps" href="http://www.sojern.com/wp-content/themes/sojern/library/images/brand-assets/sojern_compass/Sojern_Grey_Compass.eps">EPS</a>
+            </li>
+            </ul>
+
+        <h4 id="brandassets__header">Spacing Considerations</h4>
+        	<p>Sojern’s logo should be given a place of prominence on the page. Always maintain the required clear space around the logo so that no type, design or photographic elements are encroaching on the logo. The minimum clear space around the logo for print and digital is 10 pixels.</p>
+        	<img src="img/Sojern_Logo_Spacing.png" />
+
+        	</div><!--end wrap cf-->
+    	</div>
+    </section>
+
+        <section class="page-section color-bg10 brand-align">
+       		<div class="wrap cf">
+		        <h3>Always stay 10 pixels away from us!</h3>
+		    </div>
+		</section>
+ 	
+ 	<section class="page-section white-bg">
+       	<div class="wrap cf">
+            <h3>Colors</h3>
+           		<p>Our colors are what give our brand it personality. We’re bright, bold and confident. Sojern’s orange should be leveraged as much as possible to ensure brand consistency.</p>
+        <div class="color-block">
+            <h4 class="media-ba">Main Colors</h4>
+ 				<p>These are Sojern’s primary brand colors. Copy the HEX codes below.</p>
+					 <ul class="brand-color">
+						<li>
+							<div class="hex-size media-color1">
+								<p class="top-hexcontent">Sojern Orange</p>
+								<p class="bottom-hexcontent">#FF6600</p>
+							</div>
+						</li>
+						<li>
+							<div class="hex-size media-color2">
+								<p class="top-hexcontent">Sojern Orange</p>
+								<p class="bottom-hexcontent">#FFCA00</p>
+							</div>
+						</li>
+						<li>
+							<div class="hex-size media-color3">
+								<p class="top-hexcontent">Sojern Orange</p>
+								<p class="bottom-hexcontent">#3399FF</p>
+							</div>
+						<li>
+							<div class="hex-size media-color4">
+								<p class="top-hexcontent">Sojern Orange</p>
+								<p class="bottom-hexcontent">#66CCCC</p>
+							</div>
+						</li>
+						<li>
+							<div class="hex-size media-color5">
+								<p class="top-hexcontent">Sojern Orange</p>
+								<p class="bottom-hexcontent">#F7F8F9</p>
+							</div>
+						</li>
+						<li>
+							<div class="hex-size media-color6">
+								<p class="top-hexcontent">Sojern Orange</p>
+								<p class="bottom-hexcontent">#EAEDF2</p>
+							</div>
+						</li>
+						<li>
+							<div class="hex-size media-color6">
+								<p class="top-hexcontent">Sojern Orange</p>
+								<p class="bottom-hexcontent">#777777</p>
+							</div>
+						</li>
+					</ul>
+			</div><!--end color block-->
+		</div>
+	</section>
+
+	<section class="page-section white-bg">
+       	<div class="wrap cf">
+			<div class="color-block">
+				<h4 class="media-ba color-block brand-header">Secondary Colors</h4>
+	 				<p class="media-nomargin">The secondary colors are used to create visual interest and engagement. Copy the HEX codes below.</p>
+						 <ul class="brand-color">
+							<li>
+								<div class="hex-size media-color6">
+									<p class="top-hexcontent">Sojern Red</p>
+									<p class="bottom-hexcontent">#DD5544</p>
+								</div>
+							</li>
+							<li>
+								<div class="hex-size media-color7">
+									<p class="top-hexcontent">Sojern Pink</p>
+									<p class="bottom-hexcontent">#DD5544</p>
+								</div>
+							</li>
+							<li>
+								<div class="hex-size media-color8">
+									<p class="top-hexcontent">Sojern Purple</p>
+									<p class="bottom-hexcontent">HEX #CC99FF</p>
+								</div>
+							<li>
+								<div class="hex-size media-color9">
+									<p class="top-hexcontent">Sojern Green</p>
+									<p class="bottom-hexcontent">#66CCCC</p>
+								</div>
+							</li>
+							<li>
+								<div class="hex-size media-color10">
+									<p class="top-hexcontent">Sojern Light Blue</p>
+									<p class="bottom-hexcontent">HEX #00CAFF</p>
+								</div>
+							</li>
+						</ul>
+				</div><!--end Secondary Colors-->
+			</div>
+	</section>
+
+	<section class="page-section color-bg10 brand-align" id="orange-wrap">
+       	<div class="wrap cf">
+		    <h3>We love our #FF6600 and so should you!</h3>
+		</div>
+	</section>
+
+
+
+
+
+    <section class="page-section white-bg">
+       	<div class="wrap cf typography-content">
+            <h3>Typography</h3>
+           		<p>The following section shows the weights available and also gives guidelines on how to correctly use our typeface.</p>
+           			<h4>Primary Typeface</h4>
+           				<p>Our primary typeface is DIN. This sans-serif typeface is simple, readable and legible for headlines and body copy. DIN is used for print and web.</p>
+           			<h4>Secondary Typeface</h4>
+           				<p>Our secondary typeface is Arial. Arial is used when DIN is not available. </p>
+           			<h4>Hierarchy</h4>
+           				<p>Maintaining a clear typographic clarity and hierarchy is important. Here is an example of how we structure content:</p>
+           			<div class="typography--headings">
+           				<h1>Heading Level One (50px)</h1>
+           				<h2>Heading Level Two (35px)<h2>
+           				<h3>Heading Level Three (22.5px)</h3>
+           				<h4>Heading Level Four (22px)</h4>
+           				<h5>Heading Level Five (16.92px)</h5>
+           				<p>This is an example of our main text content. It might be used as a longer-form tagline or subheading on a page or content section. It has a slightly larger font size and line-height for increased legibility.</p>
+           				<p id="typography--footer">This is a smaller paragraph used for subtext or footer content. It’s designed for readability as well as optimizing the number of characters per line. The font size is decreased to account for the amount of copy in a smaller space.</p>
+           			</div>
+        </div>
+    </section>
+
+    <section class="page-section color-bg10 brand-align">
+       	<div class="wrap cf">
+		    <h3>Put that Comic Sans away.</h3>
+		</div>
+	</section>
+
+	<section class="page-section white-bg">
+       	<div class="wrap cf">
+            <h3>Photography</h3>
+           		<p>We use beautiful photographs to tell our brand story.</p>
+           		<div class="one-half profile-list">
+           			<h4>Photos Should:</h4>
+					<ul>
+					  <li>Feel unique</li>
+					  <li>Be candid, especially if they include people</li>
+					  <li>Look natural</li>
+					  <li>Have natural lighting (daytime photos are preferred)</li>
+					  <li>Be in full color and high-resolution with no added treatment</li>
+					  <li>Create wanderlust</li>
+					</ul>
+	  			</div>
+           	<img src="img/brand-photographs.jpg">
+        </div>
+    </section>
+
+    <section class="page-section color-bg10 brand-align">
+       	<div class="wrap cf">
+		    <h3>Our photos are Instagram-worthy.</h3>
+		</div>
+	</section>
+
+	<section class="page-section white-bg">
+       	<div class="wrap cf">
+            <h3>Voice and Tone</h3>
+           		<p>Sojern’s tone and manner come from a customer-first perspective. We aim to delight our customers and to always use clear, helpful and easy to understand language.</p>
+	           		<div class="one-third profile-list">
+	           			<h4>Our Voice:</h4>
+							<ul>
+							  	<li>Sounds genuine</li>
+								<li>Avoids jargon or other overly technical language</li>
+								<li>Avoids acronyms that don’t mean anything to people outside of Sojern</li>
+							</ul>
+		  			</div>
+		  			<div class="one-third profile-list">
+	           			<h4>Our Tone:</h4>
+							<ul>
+							  	<li>Friendly</li>
+								<li>Compassionate</li>
+								<li>Informative</li>
+								<li>Fun</li>
+								<li>Helpful</li>
+							</ul>
+		  			</div>
+		  			<div class="one-third profile-list">
+	           			<h4>Style Tips:</h4>
+							<ul>
+							  	<li>Use clear and concise language</li>
+								<li>Avoid jargon or fancy language</li>
+								<li>Be genuine</li>
+								<li>Use a light and casual tone</li>
+								<li>Humor is highly encouraged (but never at anyone’s expense)</li>
+							</ul>
+		  			</div>
+        </div>
+    </section>
+
+    <section class="page-section color-bg10 brand-align">
+       	<div class="wrap cf">
+		    <h3>No fancy words or marketing jargon here. We speak like humans.</h3>
+		</div>
+	</section>
+		
+		<section class="page-section">
+       		<div class="wrap cf">
+       			<div class="cta-container">
+                	<a class="blue-cta" target="_blank" href="http://www.sojern.com/putlinkhere">download SOJERN STYLE GUIDE</a>
+                </div>	
+			    <p class="download-creative">For brand and creative inquiries, please feel free to email <a href="mailto:creative@sojern.com?Subject=Hello" target="_top">creative@sojern.com</a></p>
+		    </div>
+       	</section>
+
+    <footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+
+
+	<div class="wrap cf">
+			<div class="footer-column">
+            
+            <h3><a href="http://www.sojern.com/customers/">CUSTOMERS</a></h3>
+            
+            <ul>
+            
+   			<li><a href="http://www.sojern.com/hotel-advertising-solutions/">Hotel</a></li>
+            <li><a href="http://www.sojern.com/tourism-advertising-solutions/">Tourism</a></li>
+            <li><a href="http://www.sojern.com/transportation-advertising-solutions/">Car &amp; Parking</a></li>
+            <li><a href="http://www.sojern.com/cruise-advertising-solutions/">Cruise</a></li>
+            <li><a href="http://www.sojern.com/airline-advertising-solutions/">Airline</a></li>
+            <li><a href="http://www.sojern.com/consumer-advertising-solutions/">Consumer</a></li>
+            <li><a href="http://www.sojern.com/monetize-travel-data/">Data Partners</a></li>
+            <li><a href="http://www.sojern.com/success-stories/">Case Studies</a></li>
+            
+            </ul>
+
+			</div>
+            
+            
+            <div class="footer-column">
+            
+            <h3>SOLUTIONS</h3>
+            
+            <ul>
+            
+            <li><a href="http://www.sojern.com/smart-targeting/">Smart Targeting</a></li>
+            <li><a href="http://www.sojern.com/property-solutions/">Property Solutions</a></li>
+            <li><a href="http://www.sojern.com/revdirect/">RevDirect&trade;</a></li>
+            
+            <h3>PLATFORM</h3>
+            
+            <li><a href="http://www.sojern.com/travel-advertising-platform/">Sojern Traveler Platform</a></li>
+ 			<li><a href="http://www.sojern.com/traveler-profiles/">Traveler Profiles</a></li>
+      
+            
+            </ul>
+
+			</div>
+            
+            
+            <div class="footer-column">
+            
+            <h3><a href="http://www.sojern.com/resources/">RESOURCES</a></h3>
+            
+            <ul>
+            
+            <li><a href="http://www.sojern.com/faq/">FAQ</a></li>
+            <li><a href="http://www.sojern.com/support/">Support</a></li>
+            <li><a href="http://www.sojern.com/knowledge-base/">Knowledge Base</a></li>
+
+
+            
+            </ul>
+
+			</div>
+            
+            
+            <div class="footer-column">
+            
+            <h3>ABOUT</h3>
+            
+            <ul>
+            
+            <li><a href="http://www.sojern.com/team/">Team</a></li>
+            <li><a href="http://www.sojern.com/team/#investors/">Investors</a></li>
+            <li><a href="http://www.sojern.com/careers/">Careers</a></li>
+            <li><a href="http://www.sojern.com/press/">Press Room</a></li>
+            <li><a href="http://www.sojern.com/media-resources/">Media Resources</a></li>
+            <li><a href="http://www.sojern.com/sojern-gives-back/">Sojern Gives Back</a></li>
+            
+            </ul>
+
+			</div>
+            
+            <div class="footer-column">
+            
+            
+            <h3><a href="http://www.sojern.com/contact/">CONTACT</a></h3>
+            <h3><a href="http://www.sojern.com/blog/">BLOG</a></h3>
+            <h3><a href="http://www.sojern.com/mailing-list/">MAILING LIST</a></h3>
+            
+            <ul id="footer-social">
+            <li><a target="_blank" href="https://www.facebook.com/SojernInc"><i class="fa fa-facebook"></i></a></li>
+            <li><a target="_blank" href="https://twitter.com/Sojern"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="http://www.linkedin.com/company/sojern?trk=hb_tab_compy_id_497069"><i class="fa fa-linkedin"></i></a></li>
+<!--             <li><a target="_blank" href="https://plus.google.com/+Sojern/posts"><i class="fa fa-google-plus"></i></a></li>
+ -->            </ul>
+
+			</div>
+            
+         </div>   
+         
+         
+         <div id="creds">
+         <div class="wrap cf">
+         	
+            <ul>
+            
+            <li id="ppolicy"><a class="p-policy" href="http://www.sojern.com/privacy-policy/">Privacy Policy</a></li> 
+            <li><a href="http://www.sojern.com/uk-privacy-policy/">UK Privacy Policy</a>  </li> 
+            <li><a href="http://www.sojern.com/tos/">Terms of Service</a>  </li>
+            <li><a href="http://www.sojern.com/legal-notices/">Legal Notices</a>  </li>
+            <li><a href="http://www.sojern.com/advertising-policy/">Advertising Policy</a>  </li>
+            <li><a href="http://www.sojern.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
+            
+            </ul>
+         
+             <div id="footer-logos">
+             	<a href="http://www.iab.net/member_center/1521/1534" title="iab Member" target="_blank"><img src="http://www.sojern.com/wp-content/themes/sojern/library/images/iab-logo.png" alt="iab" /></a>
+              	<a href="//privacy.truste.com/privacy-seal/validation?rid=5880440b-319d-45f0-bf56-874997d4870a" title="TRUSTe Privacy Certification" target="_blank"><img class="etrust-img2" src="//privacy-policy.truste.com/privacy-seal/seal?rid=5880440b-319d-45f0-bf56-874997d4870a" alt="TRUSTe Privacy Certification"/></a>
+                <a href="http://www.sojern.com/?page_id=1897#adchoices"><img class="adch" src="http://www.sojern.com/wp-content/themes/sojern/library/images/logo-adchoices.png" alt="adchoices"/></a>
+            </div>
+         </div>
+         
+         </div>
+         
+         <div id="copyright">
+         
+         	<div class="wrap cf">
+            
+            <p><script type="text/javascript">
+                var theDate=new Date()
+                document.write(theDate.getFullYear())
+              </script>
+              Sojern. All Rights Reserved.</p></p>
+            </div>
+            
+        </div>
+
+    			
+			</footer>
+
+		</div>
+
+				<div id="su-footer-links" style="text-align: center;"></div><link rel='stylesheet' id='addthis_output-css'  href='http://www.sojern.com/wp-content/plugins/addthis/css/output.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.sojern.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/countto.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/appear.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/stellar.js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.min.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/accordion.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/grid.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/jquery.requestAnimationFrame.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/jquery.mousewheel.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/slidingmenu.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/ilightbox.packed.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/owl.carousel.min.js'></script>
+<script type='text/javascript' src='http://www.sojern.com/wp-content/themes/sojern/library/js/scripts.js'></script>
+<!--wp_footer-->    <script type='text/javascript'>
+    (function(d, s, c) {
+      if (window._jobscore_loader) { return; } else { window._jobscore_loader = true; }
+      var o = d.createElement(s); o.type = 'text/javascript'; o.async = true;
+      var sc = d.getElementsByTagName(s)[0]; sc.parentNode.insertBefore(o, sc);
+      o.src = ('https:' == d.location.protocol ? 'https:' : 'http:') + '//www.jobscore.com/jobs/' + c + '/widget.js';
+    })(document, 'script', 'sojern');
+    </script>
+	</body>
+</html> <!-- end of site. what a ride! -->
+<!-- Dynamic page generated in 0.397 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 11:35:00 -->
+
+<!-- super cache -->
